@@ -1,0 +1,29 @@
+{
+    "books":[
+        {
+            "id":"1",
+            "name":"Wings os Fire",
+            "author":"APJ abdul Kalam",
+            "genre":"Motivation",
+            "price":"500",
+            "publisher":"APJ abdul Kalam"
+            
+        },
+        {
+            "id":"2",
+            "name":"Naruto",
+            "author":"Kishi Moto",
+            "genre":"Fantasy",
+            "price":"1000",
+            "publisher":"Kishi Moto"
+        },
+        {
+            "id":"3",
+            "name":"Brother's Love",
+            "author":"JaveethJammu",
+            "genre":"Love",
+            "price":"1500",
+            "publisher":"JaveethJammu"
+        }
+    ]
+}
