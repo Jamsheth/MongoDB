@@ -1,1 +1,9 @@
-
+>> It is a open source database and leading no sql data base
+>> we dont need to paid any one can go and use freely 
+>> it is public access
+>> datas are stored in JSON format
+>> it is a schemaless diagram
+>> It is a non-relational database similar to no sql
+>> why we use MongoDB ? because has rapid application design,collabration,
+   horizontal scaling, document database
+>> in order to use mongoDB with our application like node,express, react we need Mongoose
