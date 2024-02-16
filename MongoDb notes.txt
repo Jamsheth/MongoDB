@@ -7,4 +7,11 @@
 >> why we use MongoDB ? because has rapid application design,collabration,
    horizontal scaling, document database
 >> in order to use mongoDB with our application like node,express, react we need Mongoose
->> to use mongodb first install mongoose with the help of "npm i mongoose" code
+>> to use mongodb first install mongoose with the help of 
+           >> "npm i mongoose" 
+           >> "npm i express"
+           >> "npm i nodemon --save-anyname" 
+>> go to browser search mongo db and login your account do somebstuffs as usual 
+>> we are going to deal with deployment(database) and security(database access, network access) major part is database
+>> install your mongo db in your terminal by using "npm i mongodb"
+>>
